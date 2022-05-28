@@ -19,13 +19,13 @@
       <img src='https://readthedocs.org/projects/phen-cogs/badge/?version=latest' alt='Documentation Status' />
   </a>
 </p>
-<h4 align="center">Various phun and utility cogs for Red-DiscordBot.</h4>
+<h4 align="center">CREDITS: Various phun and utility cogs for Red-DiscordBot. Edits by BJPickles. Please consider this repo outdated from main repo.</h4>
 
 # Installation
 Follow the installation steps for [Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot).
 Once the bot is installed, run the following command in Discord:
 
-`[p]repo add Phen-Cogs https://github.com/phenom4n4n/phen-cogs`
+`[p]repo add BJ-Phen-Cogs https://github.com/BJPickles/BJ-phen-cogs/`
 
 # Cogs
 | Name              | Status/Version   | Description (Click to see full status)                                                                                                                     | Authors                                            |
