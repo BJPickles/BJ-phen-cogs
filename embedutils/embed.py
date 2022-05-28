@@ -153,7 +153,7 @@ class EmbedUtils(commands.Cog):
         return data
 
     @commands.guild_only()
-    @commands.mod_or_permissions(embed_links=True)
+    @commands.has_any_role('Developer', 'Corporal', 'Corporal I', 'Corporal II', 'Corporal III', 'Corporal IV', 'Lieutenant', 'Lieutenant I', 'Lieutenant II', 'Lieutenant III', 'Lieutenant IV', 'Lieutenant V', 'Subcommander', 'Commander', '91AR Subcommander', '91AR Commander')
     @commands.bot_has_permissions(embed_links=True)
     @help_formatted_group(invoke_without_command=True)
     async def embed(
